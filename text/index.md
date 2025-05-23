@@ -2,8 +2,6 @@
 title: The Aspiring Rationalist Ritual Compendium
 ---
 
-TODO: Add navigation buttons to the top in the template.
-
 This is a collection of ritual material -- songs, speeches, and more -- used by people in the rationality community (and adjacency). [Secular Solstice Resources](https://secularsolstice.github.io/) already exists and is the definitive archive for all Winter Solstice content; this compendium is for secular seders (rationalist Passover), Summer Solstice, and everything else.
 
 ### Want to add your ritual here? (Please)
