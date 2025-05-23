@@ -11,6 +11,5 @@ This website is on GitHub Pages, which means if you know how to make a GitHub pu
 
 ### Ready to check it out?
 
-TODO: center this or something.
-[ALL RITUALS BY TIME OF YEAR](./all_rituals.html)
+#### >>> [ALL RITUALS BY TIME OF YEAR](./all_rituals.html) <<<
 
