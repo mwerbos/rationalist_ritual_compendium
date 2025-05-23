@@ -1,3 +1,6 @@
+:root {
+--accent: #881212;
+}
 h1, h2, h3 {
 font-family: sans-serif;
 font-optical-sizing: auto;
@@ -29,5 +32,6 @@ border: var(--border) solid var(--border-width);
 font-family: sans-serif;
 padding: 0.5rem;
 }
-h4 a {
+ul {
+padding-top: 0px;
 }

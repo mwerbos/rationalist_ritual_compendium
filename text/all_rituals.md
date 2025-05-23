@@ -2,7 +2,9 @@
 title: All Rituals Organized By Time
 ---
 
-TODO: Add Shabbat, Shavuot, Summer Solstice, and ask Rivka if she has additional things to add.
+# Year-Round
+## Rationalist Shabbat
+* [Rationalist Shabbat Script](arc_shabbat.html) used by the [Aspiring Rationalist Congregation of Rockville](https://www.lesswrong.com/groups/kipXKmRAFrKq2gaRa).
 
 # Spring
 ## Passover
