@@ -5,6 +5,8 @@ title: All Rituals Organized By Time
 # Year-Round
 ## Rationalist Shabbat
 * [Rationalist Shabbat Script](arc_shabbat.html) used by the [Aspiring Rationalist Congregation of Rockville](https://www.lesswrong.com/groups/kipXKmRAFrKq2gaRa).
+* TODO: add Rivka's Shabbat script.
+* TODO: pull in links from LW (Sabbath Hard and Go Home etc.).
 * TODO: Interrogate Valinor people about their Shabbat.
 
 # Spring
@@ -52,6 +54,10 @@ TODO: pull in Baltimore Summer Solstice ritual content here.
 TODO: pull in Bay Area Summer Solstice info here.
 
 # Fall
+
+## Petrov Day
+
+TODO: pull in links from LW here, maybe try to grab previous Petrov Day rituals from other folks as well.
 
 ## Rosh Hashanah / Yom Kippur
 
