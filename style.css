@@ -1,24 +1,30 @@
 :root {
 --accent: #881212;
+--accent-bg: #f9f0f0;
 }
 h1, h2, h3 {
-font-family: sans-serif;
+font-family: "Alegreya", serif;
 font-optical-sizing: auto;
-font-weight: 900;
+font-weight: 500;
 font-style: normal;
 color: #881212;
 margin-bottom: 0px;
 }
+h2 {
+font-size: 2rem;
+color: #955;
+}
 h3 {
-color: #994444;
+color: #944;
 }
 nav {
-font-family: sans-serif;
+font-family: "Lexend", sans-serif;
+font-weight: 450;
 }
 body {
-font-family: serif;
+font-family: "Lexend", sans-serif;
 font-optical-sizing: auto;
-font-weight: 300;
+font-weight: 350;
 font-style: normal;
 }
 body > header {
@@ -26,7 +32,7 @@ padding-bottom: 0.5rem;
 }
 h4 {
 text-align: center;
-border-radius: 5px;
+border-radius: var(--standard-border-radius);
 background-color: var(--accent-bg);
 border: var(--border) solid var(--border-width);
 font-family: sans-serif;
@@ -34,4 +40,10 @@ padding: 0.5rem;
 }
 ul {
 padding-top: 0px;
+}
+p {
+margin-bottom: 0px;
+}
+body {
+padding-bottom: 2rem;
 }
