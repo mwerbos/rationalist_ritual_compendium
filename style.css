@@ -21,6 +21,12 @@ nav {
 font-family: "Lexend", sans-serif;
 font-weight: 450;
 }
+header a {
+font-size: 0.9rem;
+}
+nav a {
+font-size: 1rem;
+}
 body {
 font-family: "Lexend", sans-serif;
 font-optical-sizing: auto;
