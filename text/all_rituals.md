@@ -4,9 +4,10 @@ title: All Rituals Organized By Time
 
 # Year-Round
 ## Rationalist Shabbat
+* [Sabbath Hard and Go Home](https://benjaminrosshoffman.com/sabbath-hard-and-go-home/): a post by Ben Hoffman about the benefits of celebrating a full day of rest.
+* [Bring Back the Sabbath](https://www.lesswrong.com/posts/ZoCitBiBv97WEWpX5/bring-back-the-sabbath): a post by Zvi on the same topic, going into more detail about implementation and what things one might choose to omit in a Sabbath day.
 * [Rationalist Shabbat Script](arc_shabbat.html) used by the [Aspiring Rationalist Congregation of Rockville](https://www.lesswrong.com/groups/kipXKmRAFrKq2gaRa).
 * TODO: add Rivka's Shabbat script.
-* TODO: pull in links from LW (Sabbath Hard and Go Home etc.).
 * TODO: Interrogate Valinor people about their Shabbat.
 
 # Spring
@@ -57,7 +58,15 @@ TODO: pull in Bay Area Summer Solstice info here.
 
 ## Petrov Day
 
-TODO: pull in links from LW here, maybe try to grab previous Petrov Day rituals from other folks as well.
+* [Original post by Eliezer on Petrov Day](https://www.lesswrong.com/posts/QtyKq4BDyuJ3tysoK/9-26-is-petrov-day).
+* [Petrov Day ritual by Jim Babcock from 2014](https://www.lesswrong.com/posts/fr8MEigHzJeFQkctL/petrov-day-is-september-26).
+* [Austin Petrov Day ritual revision, 2023](https://www.lesswrong.com/posts/RnxKEgds4q8T8LeZp/austin-petrov-day-revision-2023).
+
+    > Key features:
+    > * Shorter than the original (about 30 minutes in total)
+    > * Scalable to larger groups
+
+  TODO: archive all the resources in this ritual to save it.
 
 ## Rosh Hashanah / Yom Kippur
 
