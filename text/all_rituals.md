@@ -7,8 +7,8 @@ title: All Rituals Organized By Time
 * [Sabbath Hard and Go Home](https://benjaminrosshoffman.com/sabbath-hard-and-go-home/): a post by Ben Hoffman about the benefits of celebrating a full day of rest.
 * [Bring Back the Sabbath](https://www.lesswrong.com/posts/ZoCitBiBv97WEWpX5/bring-back-the-sabbath): a post by Zvi on the same topic, going into more detail about implementation and what things one might choose to omit in a Sabbath day.
 * [Rationalist Shabbat Script](arc_shabbat.html) used by the [Aspiring Rationalist Congregation of Rockville](https://www.lesswrong.com/groups/kipXKmRAFrKq2gaRa).
-* TODO: add Rivka's Shabbat script.
-* TODO: Interrogate Valinor people about their Shabbat.
+* A more involved [Shabbat Ritual](shabbat_ritual.html) from the Baltimore LW group.
+* TODO: Add writeup of Valinor Shabbat.
 
 # Spring
 ## Passover
@@ -37,11 +37,13 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
 
 ## Smallpox Eradication Day
 
-From a [Vox article by Kelsey Piper](https://web.archive.org/web/20250510031251/https://www.vox.com/future-perfect/2023/5/3/23709475/smallpox-world-health-organization-disease-covid-vaccination-health):
+* From a [Vox article by Kelsey Piper](https://web.archive.org/web/20250510031251/https://www.vox.com/future-perfect/2023/5/3/23709475/smallpox-world-health-organization-disease-covid-vaccination-health):
 
-> So while May 8 isn’t a conventional holiday, in my house we celebrate it as one — with piñatas shaped like the smallpox virus, presents for the kids, a cookout, and a big party. Our kids are pretty young, and as far as they’re concerned Smallpox Eradication Day is one of the big landmark holidays of the year alongside Halloween and Christmas. ...
->
-> On December 9, 1979, the disease was confirmed to have been eradicated, with the World Health Assembly making the declaration official five months later. (We celebrate the May date rather than the December one just because December isn’t a good time for a new celebratory cookout holiday and May is.)
+    > So while May 8 isn’t a conventional holiday, in my house we celebrate it as one — with piñatas shaped like the smallpox virus, presents for the kids, a cookout, and a big party. Our kids are pretty young, and as far as they’re concerned Smallpox Eradication Day is one of the big landmark holidays of the year alongside Halloween and Christmas. ...
+    >
+    > On December 9, 1979, the disease was confirmed to have been eradicated, with the World Health Assembly making the declaration official five months later. (We celebrate the May date rather than the December one just because December isn’t a good time for a new celebratory cookout holiday and May is.)
+
+* TODO: add description of Baltimore LW 2025 party.
 
 ## Shavuot
 
