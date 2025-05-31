@@ -69,9 +69,9 @@ TODO: pull in Bay Area Summer Solstice info here.
   TODO: archive all the resources in this ritual to save it.
 
 
-## Rosh Hashanah / Yom Kippur
+## Rosh Hashanah
 
-TODO: pull in content from Rivka here.
+* [Rosh Hashanah Ritual](rosh_hashanah.html) from the Baltimore LessWrong group.
 
 # Winter
 ## Winter Solstice
