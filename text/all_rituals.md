@@ -68,7 +68,7 @@ TODO: Pull in content from Rivka here.
     > * Shorter than the original (about 30 minutes in total)
     > * Scalable to larger groups
 
-  TODO: archive all the resources in this ritual to save it.
+  Archival copies of the full ritual: [Original Ritual](Austin_Petrov_Day.pdf), [Booklet Format](Austin_Petrov_Day_Booklet.pdf)
 
 
 ## Rosh Hashanah
