@@ -52,9 +52,9 @@ TODO: Pull in content from Rivka here.
 # Summer
 ## Summer Solstice
 
-TODO: pull in Baltimore Summer Solstice ritual content here.
+* [Summer Solstice Ritual](Baltimore_Summer_Solstice_Ritual_Mk2.pdf) from the Baltimore LessWrong group. Features an overnight camping trip, building a henge, and getting up at (or staying up until) dawn to read The Goddess of Everything Else and watch the sun rise over the henge, culminating in a horn blast.
 
-TODO: pull in Bay Area Summer Solstice info here.
+* TODO: pull in Bay Area Summer Solstice info here.
 
 # Fall
 
