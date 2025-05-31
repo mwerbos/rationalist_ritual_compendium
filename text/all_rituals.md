@@ -47,7 +47,7 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
 
 ## Shavuot
 
-TODO: Pull in content from Rivka here.
+TODO: Write description of Baltimore LW Shavuot here.
 
 # Summer
 ## Summer Solstice
