@@ -47,7 +47,7 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
 
 ## Shavuot
 
-TODO: Write description of Baltimore LW Shavuot here.
+* Baltimore LessWrong has been having a Shavuot party for the past several years. Typically it starts at 10pm, with a small collection of potluck-style snacks, including cheesecake, coffee, and other caffeinated beverages. Participants give lightning talks for about an hour, then there is general socializing/discussion of the talks, as well as a quiet room where people can study.
 
 # Summer
 ## Summer Solstice
