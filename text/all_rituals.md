@@ -8,7 +8,7 @@ title: All Rituals Organized By Time
 * [Bring Back the Sabbath](https://www.lesswrong.com/posts/ZoCitBiBv97WEWpX5/bring-back-the-sabbath): a post by Zvi on the same topic, going into more detail about implementation and what things one might choose to omit in a Sabbath day.
 * [Rationalist Shabbat Script](arc_shabbat.html) used by the [Aspiring Rationalist Congregation of Rockville](https://www.lesswrong.com/groups/kipXKmRAFrKq2gaRa).
 * A more involved [Shabbat Ritual](shabbat_ritual.html) from the Baltimore LW group.
-* TODO: Add writeup of Valinor Shabbat.
+* [Valinor Shabbat](valinor_shabbat.html): description of the weekly Shabbat ritual that Valinor, a group house in Berkeley, has been having for the past few years.
 
 # Spring
 ## Passover
