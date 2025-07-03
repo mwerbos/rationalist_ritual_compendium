@@ -43,7 +43,7 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
     >
     > On December 9, 1979, the disease was confirmed to have been eradicated, with the World Health Assembly making the declaration official five months later. (We celebrate the May date rather than the December one just because December isn’t a good time for a new celebratory cookout holiday and May is.)
 
-* TODO: add description of Baltimore LW 2025 party.
+* Baltimore LessWrong also celebrated this in 2025 with a piñata and shot-themed candy.
 
 ## Shavuot
 
