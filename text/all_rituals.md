@@ -54,7 +54,23 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
 
 * [Summer Solstice Ritual](Baltimore_Summer_Solstice_Ritual_Mk2.pdf) from the Baltimore LessWrong group. Features an overnight camping trip, building a henge, and getting up at (or staying up until) dawn to read The Goddess of Everything Else and watch the sun rise over the henge, culminating in a horn blast.
 
-* TODO: pull in Bay Area Summer Solstice info here.
+* [Visions of Summer Solstice](https://www.lesswrong.com/posts/KnpxChD9fnT9785FR/visions-of-summer-solstice): Post by Ray describing his high-level vision of what a Summer Solstice ritual should be like.
+
+* [Stories of Summer Solstice](https://www.lesswrong.com/s/3bbvzoRA8n6ZgbiyK/p/e9Fgj2mHS8BqGbiZf): Post by Ray describing (at least one) Bay Area Summer Solstice ritual. 
+
+  * A short description of what happens at Bay Area Summer Solstice (thanks to Anna Tchetchekine for intel on the 2025 version):
+
+    * All participants go to a large outdoor location. During the day, there are a variety of activities, in a festival atmosphere; usually there's a whiteboard where different people can sign up for timeslots to organize themselves. Typical activities include singing, capture the flag, Circling, and other social/physical/outdoor stuff; people may also abscond to go hiking on their own.
+
+    * At the end of the day, there is a "March" ritual where the participants, wielding drums/5 gallon buckets being used as drums/didgeridoos made of PVC pipes and wax/streamers and lanterns, all march along the coast of the Marin headlands, yelling, drumming, and hooting, until they come to a final dramatic loud drum circle at the ending location.
+
+* Song lyric packs made by Anna Tchetchekine for singing circles at previous Summer Solstices:
+
+  * [2021 Summer Solstice lyrics pack](Annas_Summer_Solstice_Lyrics_Pack_2021.pdf)
+
+  * [2023 Summer Solstice lyrics pack](Annas_Summer_Solstice_Lyrics_Pack_2023.pdf)
+
+  * [2024 Summer Solstice lyrics pack](Annas_Summer_Solstice_Lyrics_Pack_2024.pdf)
 
 # Fall
 
