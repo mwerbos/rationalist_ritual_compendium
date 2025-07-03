@@ -4,7 +4,7 @@
 
 ## How to Contribute
 
-If you would like to add your ritual or resources here, you can *send me an email* (mwerbos at Google's email service) with whatever materials you have, and I'll put them in.
+If you would like to add your ritual or resources here, you can send me an email (mwerbos at Google's email service) with whatever materials you have, and I'll put them in.
 
 If you want to make my life easier, however, you can also make a pull request!
 
