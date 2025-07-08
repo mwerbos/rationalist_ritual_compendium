@@ -70,6 +70,8 @@ Note that these have been hosted in the past at [The Rationalist Haggadot Collec
 
   * [2024 Summer Solstice lyrics pack](Annas_Summer_Solstice_Lyrics_Pack_2024.pdf)
 
+* Summer Solstice Virtue posters, carried as banners in the Bay Area's Sunset March in 2025: [Abundance](abundance.jpg), [Joy in the Merely Real](joy.jpg), and [Here Now](herenow.jpg)
+
 # Fall
 
 ## Petrov Day
